@@ -1,0 +1,8 @@
+int main()
+{
+int a="abc";
+a+++;
+a+=b;
+
+return 0;
+}
